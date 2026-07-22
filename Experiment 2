@@ -46,3 +46,21 @@ public:
         return -1;
     }
 };
+
+--------------------------------------------------------------
+
+1.2.3: search insert position
+
+from typing import List
+
+class Solution:
+    def searchInsert(self, nums: List[int], target: int) -> int:
+        low = 0
+        high = len(nums)
+        while low < high:
+            mid = (low + high) // 2
+            if nums[mid] < target:
+                low = mid + 1
+            else:
+                high = mid
+        return low
