@@ -4,9 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Jhk243/24bda70361-cc2/tree/master/0035-search-insert-position) |
 | [0238-product-of-array-except-self](https://github.com/Jhk243/24bda70361-cc2/tree/master/0238-product-of-array-except-self) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Jhk243/24bda70361-cc2/tree/master/0238-product-of-array-except-self) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Jhk243/24bda70361-cc2/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
