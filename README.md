@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Jhk243/24bda70361-cc2/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/Jhk243/24bda70361-cc2/tree/master/0328-odd-even-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
