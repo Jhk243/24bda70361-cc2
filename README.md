@@ -16,4 +16,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Jhk243/24bda70361-cc2/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Jhk243/24bda70361-cc2/tree/master/0035-search-insert-position) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Jhk243/24bda70361-cc2/tree/master/0232-implement-queue-using-stacks) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Jhk243/24bda70361-cc2/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Jhk243/24bda70361-cc2/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
