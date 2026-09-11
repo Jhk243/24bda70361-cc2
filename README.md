@@ -79,4 +79,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Jhk243/24bda70361-cc2/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Math
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Jhk243/24bda70361-cc2/tree/master/0258-add-digits) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Jhk243/24bda70361-cc2/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Jhk243/24bda70361-cc2/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
